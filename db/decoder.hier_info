@@ -1,0 +1,317 @@
+|decoder_5bit
+O[0] <= 21mux:inst11.Y
+O[1] <= 21mux:inst12.Y
+O[2] <= 21mux:inst13.Y
+O[3] <= 21mux:inst14.Y
+O[4] <= inst7.DB_MAX_OUTPUT_PORT_TYPE
+in[0] => decoder:inst.t[1]
+in[1] => decoder:inst.t[2]
+in[2] => decoder:inst.t[3]
+in[3] => decoder:inst.t[4]
+in[4] => decoder:inst.t[5]
+in[5] => decoder:inst.t[6]
+in[6] => decoder:inst.t[7]
+in[7] => decoder:inst.t[8]
+in[8] => decoder:inst.t[9]
+in[9] => decoder:inst.t[10]
+in[10] => decoder:inst.t[11]
+in[11] => decoder:inst.t[12]
+in[12] => decoder:inst.t[13]
+in[13] => decoder:inst.t[14]
+in[14] => decoder:inst.t[15]
+in[15] => inst7.IN1
+in[15] => 21mux:inst11.S
+in[15] => 21mux:inst12.S
+in[15] => 21mux:inst13.S
+in[15] => 21mux:inst14.S
+in[16] => decoder:inst1.t[1]
+in[17] => decoder:inst1.t[2]
+in[18] => decoder:inst1.t[3]
+in[19] => decoder:inst1.t[4]
+in[20] => decoder:inst1.t[5]
+in[21] => decoder:inst1.t[6]
+in[22] => decoder:inst1.t[7]
+in[23] => decoder:inst1.t[8]
+in[24] => decoder:inst1.t[9]
+in[25] => decoder:inst1.t[10]
+in[26] => decoder:inst1.t[11]
+in[27] => decoder:inst1.t[12]
+in[28] => decoder:inst1.t[13]
+in[29] => decoder:inst1.t[14]
+in[30] => decoder:inst1.t[15]
+
+
+|decoder_5bit|21mux:inst11
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst
+g[1] <= 21mux:inst4.Y
+g[2] <= 21mux:inst5.Y
+g[3] <= 21mux:inst7.Y
+g[4] <= inst19.DB_MAX_OUTPUT_PORT_TYPE
+t[1] => 21mux:inst8.B
+t[2] => 21mux:inst10.B
+t[2] => 21mux:inst8.S
+t[3] => inst6.IN0
+t[4] => 21mux:inst7.B
+t[4] => 21mux:inst10.S
+t[4] => 21mux:inst11.S
+t[5] => 21mux:inst9.B
+t[6] => inst14.IN0
+t[6] => 21mux:inst9.S
+t[7] => inst12.IN0
+t[8] => 21mux:inst7.S
+t[8] => 21mux:inst5.S
+t[8] => 21mux:inst4.S
+t[8] => inst18.IN0
+t[9] => 21mux:inst.B
+t[10] => 21mux:inst2.B
+t[10] => 21mux:inst.S
+t[11] => inst13.IN0
+t[12] => inst17.IN0
+t[12] => 21mux:inst2.S
+t[12] => 21mux:inst3.S
+t[13] => 21mux:inst1.B
+t[14] => inst16.IN0
+t[14] => 21mux:inst1.S
+t[15] => inst15.IN0
+
+
+|decoder_5bit|decoder:inst|21mux:inst7
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst|21mux:inst5
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst|21mux:inst10
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst|21mux:inst2
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst|21mux:inst4
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst|21mux:inst11
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst|21mux:inst8
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst|21mux:inst9
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst|21mux:inst3
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst|21mux:inst
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst|21mux:inst1
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst1
+g[1] <= 21mux:inst4.Y
+g[2] <= 21mux:inst5.Y
+g[3] <= 21mux:inst7.Y
+g[4] <= inst19.DB_MAX_OUTPUT_PORT_TYPE
+t[1] => 21mux:inst8.B
+t[2] => 21mux:inst10.B
+t[2] => 21mux:inst8.S
+t[3] => inst6.IN0
+t[4] => 21mux:inst7.B
+t[4] => 21mux:inst10.S
+t[4] => 21mux:inst11.S
+t[5] => 21mux:inst9.B
+t[6] => inst14.IN0
+t[6] => 21mux:inst9.S
+t[7] => inst12.IN0
+t[8] => 21mux:inst7.S
+t[8] => 21mux:inst5.S
+t[8] => 21mux:inst4.S
+t[8] => inst18.IN0
+t[9] => 21mux:inst.B
+t[10] => 21mux:inst2.B
+t[10] => 21mux:inst.S
+t[11] => inst13.IN0
+t[12] => inst17.IN0
+t[12] => 21mux:inst2.S
+t[12] => 21mux:inst3.S
+t[13] => 21mux:inst1.B
+t[14] => inst16.IN0
+t[14] => 21mux:inst1.S
+t[15] => inst15.IN0
+
+
+|decoder_5bit|decoder:inst1|21mux:inst7
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst1|21mux:inst5
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst1|21mux:inst10
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst1|21mux:inst2
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst1|21mux:inst4
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst1|21mux:inst11
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst1|21mux:inst8
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst1|21mux:inst9
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst1|21mux:inst3
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst1|21mux:inst
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|decoder:inst1|21mux:inst1
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|21mux:inst12
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|21mux:inst13
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
+|decoder_5bit|21mux:inst14
+Y <= 5.DB_MAX_OUTPUT_PORT_TYPE
+A => 6.IN0
+S => 6.IN1
+S => 7.IN1
+B => 8.IN0
+
+
