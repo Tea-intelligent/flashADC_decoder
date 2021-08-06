@@ -1,0 +1,567 @@
+D:/hieu/decoder/verilog/decoder_5bit.v {1 {vlog -work work {D:\hieu\decoder\verilog\decoder_5bit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decoder_5bit
+
+Top level modules:
+	decoder_5bit
+
+} {} {}} D:/hieu/decoder/verilog/tb.v {2 {vlog -work work D:/hieu/decoder/verilog/tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb
+** Warning: D:/hieu/decoder/verilog/tb.v(12): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(16): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(20): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(24): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(28): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(32): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(36): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(40): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(44): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(48): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(52): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(56): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(60): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(64): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(68): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(72): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(76): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(80): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(84): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(88): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(92): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(96): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(100): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(104): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(108): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(112): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(116): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(120): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(124): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(128): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(132): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(136): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(140): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(144): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(148): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(152): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(156): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(160): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(164): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(168): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(172): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(176): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(180): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(184): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(188): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(192): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(196): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(200): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(204): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(208): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(212): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(216): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(220): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(224): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(228): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(232): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(236): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(240): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(244): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(248): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(252): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(256): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(260): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(264): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(268): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(272): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(276): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(280): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(284): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(288): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(292): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(296): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(300): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(304): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(308): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(312): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(316): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(320): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(324): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(328): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(332): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(336): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(340): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(344): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(348): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(352): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(356): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(360): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(364): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(368): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(372): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(376): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(380): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(384): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(388): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(392): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(396): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(400): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(404): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(408): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(412): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(416): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(420): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(424): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(428): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(432): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(436): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(440): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(444): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(448): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(452): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(456): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(460): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(464): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(468): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(472): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(476): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(480): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(484): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(488): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(492): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(496): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(500): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(504): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(508): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(512): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(516): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(520): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(524): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(528): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(532): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(536): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(540): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(544): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(548): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(552): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(556): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(560): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(564): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(568): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(572): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(576): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(580): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(584): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(588): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(592): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(596): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(600): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(604): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(608): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(612): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(616): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(620): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(624): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(628): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(632): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(636): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(640): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(644): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(648): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(652): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(656): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(660): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(664): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(668): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(672): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(676): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(680): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(684): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(688): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(692): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(696): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(700): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(704): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(708): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(712): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(716): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(720): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(724): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(728): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(732): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(736): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(740): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(744): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(748): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(752): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(756): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(760): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(764): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(768): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(772): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(776): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(780): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(784): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(788): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(792): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(796): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(800): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(804): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(808): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(812): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(816): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(820): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(824): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(828): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(832): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(836): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(840): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(844): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(848): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(852): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(856): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(860): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(864): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(868): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(872): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(876): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(880): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(884): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(888): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(892): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(896): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(900): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(904): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(908): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(912): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(916): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(920): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(924): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(928): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(932): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(936): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(940): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(944): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(948): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(952): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(956): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(960): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(964): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(968): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(972): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(976): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(980): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(984): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(988): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(992): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(996): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(1000): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(1004): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(1008): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(1012): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(1016): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(1020): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(1024): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: D:/hieu/decoder/verilog/tb.v(1028): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	tb
+
+} {} {}} D:/hieu/decoder/verilog/final.v {1 {vlog -work work {D:\hieu\decoder\verilog\final.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module final
+
+Top level modules:
+	final
+
+} {} {}} D:/hieu/decoder/verilog/decoder.v {1 {vlog -work work {D:\hieu\decoder\verilog\decoder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decoder
+
+Top level modules:
+	decoder
+
+} {} {}} D:/hieu/decoder/verilog/decoder_6bit.v {1 {vlog -work work D:/hieu/decoder/verilog/decoder_6bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decoder_6bit
+
+Top level modules:
+	decoder_6bit
+
+} {} {}} D:/21mux.v {1 {vlog -work work {D:\21mux.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux21
+
+Top level modules:
+	mux21
+
+} {} {}} D:/hieu/decoder/verilog/decoder_7bit.v {1 {vlog -work work D:/hieu/decoder/verilog/decoder_7bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decoder_7bit
+
+Top level modules:
+	decoder_7bit
+
+} {} {}} D:/hieu/decoder/verilog/decoder_8bit.v {1 {vlog -work work {D:\hieu\decoder\verilog\decoder_8bit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decoder_8bit
+
+Top level modules:
+	decoder_8bit
+
+} {} {}}

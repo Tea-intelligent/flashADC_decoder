@@ -1,0 +1,157 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vdecoder
+Z1 I[`L:Q]WA^lQoLHFNV<@<R2
+Z2 V:WY0TPeCoURP^JI3BUz:o3
+Z3 dD:\hieu\decoder\verilog
+Z4 w1624504323
+Z5 8D:\hieu\decoder\verilog\decoder.v
+Z6 FD:\hieu\decoder\verilog\decoder.v
+L0 19
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 0UH1GYi`PbUiDB:>@FePz2
+Z10 !s108 1624504469.726000
+Z11 !s107 D:\hieu\decoder\verilog\decoder.v|
+Z12 !s90 -reportprogress|300|-work|work|D:\hieu\decoder\verilog\decoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_5bit
+Z13 IPgofB>B4N>m^agmcY26Of0
+Z14 VlkFZ=Y6CJ8k5cWKV53@KO1
+R3
+Z15 w1624504401
+Z16 8D:\hieu\decoder\verilog\decoder_5bit.v
+Z17 FD:\hieu\decoder\verilog\decoder_5bit.v
+L0 19
+R7
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|D:\hieu\decoder\verilog\decoder_5bit.v|
+R8
+Z19 !s100 bE;j]Ozg8f1J7=n6Y>1Ge3
+Z20 !s108 1624504469.945000
+Z21 !s107 D:\hieu\decoder\verilog\decoder_5bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_6bit
+Z22 IC7n><z:8m>3HWa>0CJgY@2
+Z23 VFCHMP5n?0PmSnJ;Z=;2Xz2
+R3
+Z24 w1624504428
+Z25 8D:/hieu/decoder/verilog/decoder_6bit.v
+Z26 FD:/hieu/decoder/verilog/decoder_6bit.v
+L0 19
+R7
+r1
+31
+Z27 !s90 -reportprogress|300|-work|work|D:/hieu/decoder/verilog/decoder_6bit.v|
+R8
+Z28 !s100 HBOAN@YoQ32Xm_1z2jI7X3
+Z29 !s108 1624504470.050000
+Z30 !s107 D:/hieu/decoder/verilog/decoder_6bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_7bit
+Z31 I9fSf6f>EL1@id68:03TWo0
+Z32 VPI;VDJ3Taj2TmCf@[kSH;1
+R3
+Z33 w1624504451
+Z34 8D:/hieu/decoder/verilog/decoder_7bit.v
+Z35 FD:/hieu/decoder/verilog/decoder_7bit.v
+L0 19
+R7
+r1
+31
+Z36 !s90 -reportprogress|300|-work|work|D:/hieu/decoder/verilog/decoder_7bit.v|
+R8
+Z37 !s100 fVHLLPK<96kYPLAGM[5ee3
+Z38 !s108 1624504470.179000
+Z39 !s107 D:/hieu/decoder/verilog/decoder_7bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_8bit
+Z40 ITZnQn_gmA>=QihLehC<[i3
+Z41 VU]UL:Cg_=fnTkSS1lT^h:2
+R3
+Z42 w1624504461
+Z43 8D:\hieu\decoder\verilog\decoder_8bit.v
+Z44 FD:\hieu\decoder\verilog\decoder_8bit.v
+L0 19
+R7
+r1
+31
+Z45 !s90 -reportprogress|300|-work|work|D:\hieu\decoder\verilog\decoder_8bit.v|
+R8
+Z46 !s100 FMFIkHOlOV?PIcZS3k5nP2
+Z47 !s108 1624504470.280000
+Z48 !s107 D:\hieu\decoder\verilog\decoder_8bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfinal
+Z49 !s100 H4GWno0V<OFV:z<fGUe@12
+Z50 I@BT06KIY^gfi5R=GZej<E2
+Z51 VN6AolAh;A:aDI;^NS:FG10
+R3
+Z52 w1624498250
+Z53 8D:\hieu\decoder\verilog\final.v
+Z54 FD:\hieu\decoder\verilog\final.v
+L0 19
+R7
+r1
+31
+Z55 !s90 -reportprogress|300|-work|work|D:\hieu\decoder\verilog\final.v|
+R8
+Z56 !s108 1624504470.386000
+Z57 !s107 D:\hieu\decoder\verilog\final.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux21
+Z58 !s100 m0Kg=R<U2?ONT25BVB4]k3
+Z59 IWPLn^AbJmzfo0lAP@G]8G0
+Z60 Vf0ST1Zg_BfKIePe6IGb^L1
+R3
+Z61 w1624504125
+Z62 8D:\21mux.v
+Z63 FD:\21mux.v
+L0 1
+R7
+r1
+31
+Z64 !s90 -reportprogress|300|-work|work|D:\21mux.v|
+R8
+Z65 !s108 1624504470.675000
+Z66 !s107 D:\21mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb
+!i10b 1
+Z67 !s100 a4^e7c`Z?62z8>KLIeh?j1
+Z68 I>h:0S1eb9TV7XDF6`TMKW3
+Z69 VV@Xn<HnSRM[I5c1?BH]3a3
+R3
+w1625637789
+Z70 8D:/hieu/decoder/verilog/tb.v
+Z71 FD:/hieu/decoder/verilog/tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1625637797.593000
+!s107 D:/hieu/decoder/verilog/tb.v|
+Z72 !s90 -reportprogress|300|-work|work|D:/hieu/decoder/verilog/tb.v|
+!s101 -O0
+R8
